@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head><title>Soal 2 Prak 2</title></head>
+<body>
+    <div style="background-color: red;width:750px;"><b>HTML</b></div> 
+    <p>Dari Wikipedia bahasa Indonesia, ensiklopedia bebas<br>
+    Diahlikan dari<a href="HyperText markup language.html">HyperText markup language</a><br> 
+    <b>HyperText Markup Language</b> (HTML) adalah sebuah <span style="background-color: chartreuse; width:150px;"><u><i>bahasa markah</i></u></span>yang digunakan untuk membuat sebuah halaman web, menampilkan berbagai informasi di dalam sebuah <span style="background-color: chartreuse; width:150px;"><u><i>penjelajah web</i></u></span>Internet dan pemformatan hiperteks sederhana yang ditulis dalam berkas format ASCII agar dapat menghasilkan tampilan wujud yang terintegerasi. Dengan kata lain, berkas yang dibuat dalam perangkat lunak pengolah kata dan disimpan dalam format 
+    <span style="background-color: chartreuse; width:150px;"><u>ASCII</u></span>normal sehingga menjadi<span style="background-color: chartreuse; width:150px;"><u>halaman web</u></span> dengan perintah-perintah HTML Bermula dari sebuah bahasa yang sebelumnya banyak digunakan di dunia penerbitan dan percetakan yang disebut dengan <span style="background-color: chartreuse; width:150px;"><u>SGML</u></span> (Standard Generalized Markup Language), HTML adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web. HTML saat ini merupakan standar 
+    <span style="background-color: chartreuse; width:150px;"><u>Internet</u></span> yang didefinisikan dan dikendalikan penggunaannya oleh <span style="background-color: chartreuse; width:150px;"><u>World Wide Web Consortium</u></span> (W3C). HTML dibuat oleh kolaborasi Caillau TIM dengan Berners-lee Robert ketika mereka bekerja di CERN pada tahun 1989 (CERN adalah lembaga penelitian fisika energi tinggi di Jenewa).
+    </p>
+    <table>
+        <tr>
+            <th>Daftar isi</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="sejarah"><b>1 Sejarah</b></a>
+                <ul>
+                    <li><a href="perkembangan">Perkembangan</a></li>
+                    <li><a href="standar">Sejarah dari standar HTML</a></li>
+                </ul>
+                <a href="kegunaan"><b>2 Kegunaan</b></a>
+                <ul>
+                    <li><a href="menyunting">Menyunting format tulisan</a></li>
+                </ul>
+                <a href="markah"><b>3 Markah/Tanda</b></a>
+                <ul>
+                    <li><a href="contoh">Contoh dokumen HTML sederhana</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <p><div style="background-color: black;width:750px; color : white"><b>Kegunaan</b></div></p>
+    <ul>
+        <li>Mengintegrasikan gambar dengan tulisan.</li>
+        <li>Membuat <a href="#pranala" style="text-decoration: none; color: blue;"><u>Pranala</u></a>.</li>
+        <li>Mengintegrasikan berkas suara dan rekaman gambar hidup.</li>
+        <li>Membuat form interaktif.<sup><a href="#catatan2" style="text-decoration: none; color: blue;">[2]</a></sup></li>
+    </ul>
+    <p>HTML dokumen tersebut mirip dengan dokumen tulisan biasa, hanya dalam dokumen ini sebuah tulisan bisa memuat instruksi yang ditandai dengan kode atau lebih dikenal dengan TAG tertentu. Sebagai contoh jika ingin membuat tulisan ditampilkan menjadi tebal seperti: 
+        <b>TAMPIL TEBAL</b>, maka penulisannya dilakukan dengan cara:<b>TAMPIL TEBAL</b>. Tanda <b> digunakan untuk mengaktifkan instruksi cetak tebal, diikuti oleh tulisan yang ingin ditebalkan, dan diakhiri dengan tanda </b> untuk menonaktifkan cetak tebal tersebut. 
+        HTML lebih menekankan pada penggambaran komponen-komponen struktur dan format di dalam halaman web daripada menentukan penampilannya. Sedangkan penjelajah web digunakan untuk menginterpretasikan susunan halaman ke gaya built-in penjelajah web dengan menggunakan jenis 
+        tulisan, tab, warna, garis, dan perataan text yang dikehendaki ke komputer yang menampilkan halaman web. Salah satu hal Penting tentang eksistensi HTML adalah tersedianya <i>Lingua franca</i> (bahasa Komunikasi) antar komputer dengan kemampuan berbeda. Pengguna
+        <a href="macintosh" style="text-decoration: none; color: blue;"><u>Macintosh</u></a> tidak dapat melihat tampilan yang sama sebagaimana tampilan yang terlihat dalam pc berbasis Windows. Pengguna <a href="microsoft windows" style="text-decoration: none; color: blue;"><u>Microsoft Windows</u></a>
+        Microsoft Windows pun tidak akan dapat melihat tampilan yang sama sebagaimana tampilan yang terlihat pada pengguna yang menggunakan <a href="produk" style="text-decoration: none; color: blue;"><u>Produk</u></a> -produk <a href="sun mycrosystems" style="text-decoration: none; color: blue;"><u>Sun Microsystems.</u></a>
+        namun demikian pengguna-pengguna tersebut dapat melihat semua halaman web yang telah diformat dan berisi <a href="grafika" style="text-decoration: none; color: blue;"><u>Grafika</u></a> dan <a href="pranala" style="text-decoration: none; color: blue;"><u>Pranala.[3]</u></a><br>
+        <b>Menyunting format tulisan</b><br>
+        HTML memungkinkan seseorang untuk menyunting tampilan atau format berkas yang akan dikirimkan melalui media daring. Beberapa hal yang dapat dilakukan dalam menentukan format berkas adalah: 
+        <ul>
+            <li>Menampilkan suatu kelompok kata dalam beberapa ukuran yang dapat digunakan untuk judul, heading dan sebagainya.</li>
+            <li>Menampilkan tulisan dalam bentuk cetakan tebal</li>
+            <li>Menampilkan sekelompok kata dalam bentuk miring</li>
+            <li>Menampilkan naskah dalam bentuk huruf yang mirip dengan hasil ketikan mesin ketik</li>
+            <li>Mengubah-ubah ukuran tulisan untuk suatu karakter tertentu.</li>
+        </ul>
+    </p>
+    <p><div style="background-color: black;width:750px; color : white"><b>Markas/Tanda</b></div></p>
+    Secara garis besar, terdapat 4 jenis elemen dari HTML
+    <ul>
+        <li><i>Struktural.</i> Tanda yang menentukan level atau tingkatan dari sebuah tulisan contoh, <h1>Golf</h1> akan memerintahkan peramban untuk menampilkan "Golf" sebagai tulisan tebal besar yang menunjukkan sebagai Heading 1</li>
+        <li><i>Presentasional.</i>Tanda yang menentukan tampilan dari sebuah tulisan tidak peduli dengan level dari tulisan tersebut contoh, <b>boldface</b> akan menampilkan bold. Tanda presentasional saat ini sudah mulai digantikan oleh CSS dan tidak direkomendasikan untuk mengatur tampilan tulisan,</li>
+        <li>Hiperteks. Tanda yang menunjukkan pranala ke bagian dari dokumen tersebut atau pranala ke dokumen lain (contoh, <a href="http://www.wikipedia.org/">Wikipedia</a> akan menampilkan Wikipedia sebagai sebuah hyperlink ke URL tertentu),</li>
+        <li>Elemen widget yang membuat objek-objek lain seperti tombol (<button>), list (<li>), dan garis horizontal (<hr>). Konsep hypertext pada HTML memungkinkan pembuatan link pada suatu kelompok kata atau frasa untuk menuju ke bagian manapun dalam World Wide Web</li>
+    </ul>
+    Ada tiga macam pranala (link) yang dapat digunakan :
+    <ul>
+        <li>Pranala menuju bagian lain dari page</li>
+        <li>Pranala menuju page lain dalam satu web site.</li>
+        <li>Pranala menuju resource atau web site yang berbeda.[4]</li>
+    </ul>
+</body>
